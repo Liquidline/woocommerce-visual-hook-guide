@@ -27,7 +27,7 @@ Woo Visual Hook Guide - is a plugin to help developers understand where the temp
 2. Hook Listing
 3. Ajax Hook content
 
-## Installation ==
+## Installation
 * Download to your plugin directory or simply install via WordPress admin interface.
 * Activate.
 
